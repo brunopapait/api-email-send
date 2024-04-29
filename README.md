@@ -1,9 +1,11 @@
 <h1 align="center">
-  Api de envio de E-mail
+  Api de envio de emails
 </h1>
 
 API de envio de email usando o Java Mail Sender com Mailtrap.
-Projeto criado nesse video - https://www.youtube.com/watch?v=Tc6sBZpJazo&list=WL&index=5&t=1522s
+
+## Projeto criado a partir desse video 
+#### https://www.youtube.com/watch?v=Tc6sBZpJazo&list=WL&index=5&t=1522s
 
 ## Tecnologias
 
