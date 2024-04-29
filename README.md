@@ -12,7 +12,7 @@ API de envio de email usando o Java Mail Sender com Mailtrap.
 - [Spring Boot](https://spring.io/projects/spring-boot)
 - [Spring Web](https://docs.spring.io/spring-boot/docs/current/reference/html/web.html)
 - [Lombok](https://projectlombok.org/)
-- [JavaMailSender]([https://docs.aws.amazon.com/ses/latest/dg/Welcome.html](https://docs.spring.io/spring-framework/docs/current/javadoc-api/org/springframework/mail/javamail/JavaMailSender.html))
+- [JavaMailSender](https://docs.spring.io/spring-framework/docs/current/javadoc-api/org/springframework/mail/javamail/JavaMailSender.html)
 - [Mailtrap](https://mailtrap.io/)
 
 ## Como Executar
